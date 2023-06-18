@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402850447771",
+    "project_id": "myolx-97796",
+    "storage_bucket": "myolx-97796.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402850447771:android:aba4627a3d318c9859a13e",
+        "android_client_info": {
+          "package_name": "com.amrullaev.myolx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT-WIQdFUxIuQtWSxRNRt8rXIMGHKujyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

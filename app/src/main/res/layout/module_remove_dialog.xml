@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="@string/bu_dasturni_ishlatib_siz_e_lonlardi_joylashtarish_sizga_kerakli_bo_lgan_mahsulotlardi_kuzatib_borishingiz_mumkun_bizni_kuzatishda_davom_eting"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+</RelativeLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/list"
+        android:orderInCategory="100"
+        android:title="@string/ro_yxat"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/gallery"
+        android:orderInCategory="100"
+        android:title="@string/galereya"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mozaik"
+        android:orderInCategory="100"
+        android:title="@string/mozaika"
+        app:showAsAction="never" />
+
+</menu>
